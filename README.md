@@ -9,4 +9,4 @@ FYI utils has the function that maps the integers returned by the model to the a
 To install tensorflow, you need to have permissions of the `homeassistant` user and activate the python venv that HA uses.
 * Set user -> `sudo -u homeassistant -H -s`
 * Activate venv -> `cd /srv/homeassistant/` then `source bin/activate`
-* `pip3 install tensorflow==1.11.0`
+* `pip3 install tensorflow==1.13.2`
